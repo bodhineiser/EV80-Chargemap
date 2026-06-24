@@ -1,0 +1,24 @@
+.env
+.superpowers/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.g.dart
+*.freezed.dart
+
+# Android
+android/.gradle/
+android/local.properties
+android/captures/
+android/app/debug
+android/app/profile
+android/app/release
+
+# IDE
+.idea/
+.vscode/
+*.iml
